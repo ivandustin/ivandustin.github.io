@@ -33,3 +33,7 @@ Centers God’s story on Jesus rather than ourselves. It explains how Christ’s
 ## [The Power of Words](words.md)
 
 Examines the power of words to build, heal, save, or destroy. Through examples from medicine and law, it shows how careful study and clear communication can shape diagnoses, legal judgments, and even the course of a person’s life.
+
+## [Value = People × Service × Quality](value.md)
+
+Explains value as the product of the people you help, the usefulness of your service, and the quality of your work. It emphasizes meeting real needs with care and skill to make people’s lives better.
