@@ -1,3 +1,7 @@
+## [Jesus Is the Main Character](mainchar.md)
+
+Centers God’s story on Jesus rather than ourselves. It explains how Christ’s obedience and sacrifice bring God’s justice and mercy together, offering forgiveness, righteousness, and eternal life to all who trust in Him.
+
 ## [Power = Word of God × Faith](power.md)
 
 Explores how God can do great things through even a little faith in Jesus, the living Word. It emphasizes that power belongs to God and that faith means trusting His wisdom rather than controlling outcomes.
@@ -25,10 +29,6 @@ Reflects on the meaning “Yahweh saves” in the names Yeshayahu and Yehoshua. 
 ## [The Only Way to Learn Is to Expose Yourself](expose.md)
 
 Argues that learning requires exposure to unfamiliar ideas, real experience, feedback, and the possibility of failure. Growth comes through small challenges followed by honest reflection and repeated effort.
-
-## [Jesus Is the Main Character](mainchar.md)
-
-Centers God’s story on Jesus rather than ourselves. It explains how Christ’s obedience and sacrifice bring God’s justice and mercy together, offering forgiveness, righteousness, and eternal life to all who trust in Him.
 
 ## [The Power of Words](words.md)
 
