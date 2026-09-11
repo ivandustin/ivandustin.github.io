@@ -37,3 +37,7 @@ Examines the power of words to build, heal, save, or destroy. Through examples f
 ## [Value = People × Service × Quality](value.md)
 
 Explains value as the product of the people you help, the usefulness of your service, and the quality of your work. It emphasizes meeting real needs with care and skill to make people’s lives better.
+
+## [Life Is Engineering](engr.md)
+
+Applies engineering principles to everyday life: understanding problems, working within real limits, building useful habits, and learning from results. It emphasizes giving each task the care it needs while making room for rest, play, love, and wonder.
