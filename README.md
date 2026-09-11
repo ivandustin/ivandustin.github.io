@@ -1,3 +1,7 @@
+## [Power = Word of God × Faith](power.md)
+
+Explores how God can do great things through even a little faith in Jesus, the living Word. It emphasizes that power belongs to God and that faith means trusting His wisdom rather than controlling outcomes.
+
 ## [Faith = Word × Trust: A Scientific and Biblical Analysis](faith.md)
 
 Presents faith as the product of God’s Word and a person’s active trust. It uses biblical passages and a conceptual mathematical model to explore the relationship, implications, and limitations of this idea.
