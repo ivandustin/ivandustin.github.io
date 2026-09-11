@@ -41,3 +41,7 @@ Explains value as the product of the people you help, the usefulness of your ser
 ## [Life Is Engineering](engr.md)
 
 Applies engineering principles to everyday life: understanding problems, working within real limits, choosing a sensible order, checking results, and providing ongoing care. It distinguishes engineering from perfectionism, emphasizing practical solutions and giving each task the attention it needs.
+
+## [Write Once, Read Infinitely](write.md)
+
+Explores how information can be reused without being used up, allowing one act of creation to benefit many readers and users. It emphasizes clarity and independent usability while acknowledging the ongoing work of sharing, applying, and improving knowledge.
