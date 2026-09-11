@@ -32,7 +32,7 @@ Argues that learning requires exposure to unfamiliar ideas, real experience, fee
 
 ## [The Power of Words](words.md)
 
-Examines the power of words to build, heal, save, or destroy. Through examples from medicine and law, it shows how careful study and clear communication can shape diagnoses, legal judgments, and even the course of a person’s life.
+Explores how words share knowledge, shape beliefs, and guide choices in medicine, law, and daily life. It emphasizes clear communication, checking statements against reliable evidence, and speaking with care when others’ health, freedom, or trust may depend on what we say.
 
 ## [Value = People × Service × Quality](value.md)
 
