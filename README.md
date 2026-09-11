@@ -2,6 +2,10 @@
 
 Explores how God can do great things through even a little faith in Jesus, the living Word. It emphasizes that power belongs to God and that faith means trusting His wisdom rather than controlling outcomes.
 
+## [Faith = Word of God × Trust](faith.md)
+
+Explains how Christian faith rests on God’s Word and is lived out through trust. It emphasizes relying on God in daily life while bringing doubts and struggles honestly to Him.
+
 ## [God: The Unseen Foundation of Creation](foundation.md)
 
 Compares God to the hidden foundation of a building: unseen, yet known through everything that depends on Him. Biblical passages show God as both the creator and sustainer of all things.
