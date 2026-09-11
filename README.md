@@ -40,4 +40,4 @@ Explains value as the product of the people you help, the usefulness of your ser
 
 ## [Life Is Engineering](engr.md)
 
-Applies engineering principles to everyday life: understanding problems, working within real limits, building useful habits, and learning from results. It emphasizes giving each task the care it needs while making room for rest, play, love, and wonder.
+Applies engineering principles to everyday life: understanding problems, working within real limits, choosing a sensible order, checking results, and providing ongoing care. It distinguishes engineering from perfectionism, emphasizing practical solutions and giving each task the attention it needs.
