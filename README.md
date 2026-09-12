@@ -34,9 +34,9 @@ Argues that learning requires exposure to unfamiliar ideas, real experience, fee
 
 Explores how words share knowledge, shape beliefs, and guide choices in medicine, law, and daily life. It emphasizes clear communication, checking statements against reliable evidence, and speaking with care when others’ health, freedom, or trust may depend on what we say.
 
-## [Value = People × Service × Quality](value.md)
+## [Value = People x Service x Quality](value.md)
 
-Explains value as the product of the people you help, the usefulness of your service, and the quality of your work. It emphasizes meeting real needs with care and skill to make people’s lives better.
+Explores how understanding people, meeting their needs, and delivering quality work together create value. It emphasizes that one service done well can matter more than many done poorly, and presents the formula as a practical reminder rather than an exact measure of work or personal worth.
 
 ## [Life Is Engineering](engr.md)
 
