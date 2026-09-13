@@ -45,3 +45,7 @@ Applies engineering principles to everyday life: understanding problems, working
 ## [Write Once, Read Infinitely](write.md)
 
 Explores how information can be reused without being used up, allowing one act of creation to benefit many readers and users. It emphasizes clarity and independent usability while acknowledging the ongoing work of sharing, applying, and improving knowledge.
+
+## [Death Is Not an Escape](reso.md)
+
+Reflects on Jesus’ teaching about resurrection and judgment, emphasizing that death does not erase responsibility for our choices. It presents both a warning against evil and hope for those who suffer injustice, while calling readers to seek mercy, do what is right, and love others.
