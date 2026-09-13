@@ -4,9 +4,9 @@
 
 In John 5:28–29, Jesus says that a time is coming when all who are in their graves will hear his voice and come out. Those who have done good will rise to life, while those who have done evil will rise to judgment. His words make a serious point: death does not erase the good or evil a person has done. Our choices in this life matter beyond the grave.
 
-People may escape punishment in this world. They may hide their wrongs, silence those they have hurt, or die without admitting what they did. But in Christian teaching, none of this puts them beyond God’s reach. Death cannot hide what God has seen. Escaping punishment on earth does not mean a person is innocent before God.
+People may escape punishment in this world. They may hide their wrongs, silence those they have hurt, or die without admitting what they did. But none of this puts them beyond God’s reach. Death cannot hide what God has seen. Escaping punishment on earth does not mean a person is innocent before God.
 
-This warning should not lead us to take pleasure in anyone’s judgment. Christianity teaches both judgment and mercy. Jesus calls people to turn away from sin and offers forgiveness and a changed life through him. People who have done evil can change. But they should not treat the chance to turn back to God as permission to keep hurting others.
+This warning should not lead us to take pleasure in anyone’s judgment. God is both just and merciful. Jesus calls us to turn away from sin and offers us forgiveness and a changed life through him. Even when we have done evil, we can change. But we should not treat the chance to turn back to God as permission to keep hurting others.
 
 The resurrection brings both warning and hope. It warns those who refuse to turn from evil that death will not free them from answering for their actions. It also gives hope to those who have suffered injustice: evil will not have the final word.
 
