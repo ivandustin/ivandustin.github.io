@@ -2,6 +2,10 @@
 
 Centers God’s story on Jesus rather than ourselves. It explains how Christ’s obedience and sacrifice bring God’s justice and mercy together, offering forgiveness, righteousness, and eternal life to all who trust in Him.
 
+## [Life’s Purpose: Knowing God Through Jesus Christ](life.md)
+
+Explores knowing God through Jesus as life’s deepest purpose. It shows how Jesus reveals God’s character and how trusting Him shapes daily life through prayer, forgiveness, service, and love for others.
+
 ## [Power = Word of God × Faith](power.md)
 
 Explores how God can do great things through even a little faith in Jesus, the living Word. It emphasizes that power belongs to God and that faith means trusting His wisdom rather than controlling outcomes.
