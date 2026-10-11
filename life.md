@@ -1,4 +1,4 @@
-# Life’s Purpose: Knowing God Through Jesus Christ
+# Life Is All About Knowing God Through Jesus Christ
 
 Life raises questions that success, wealth, and praise cannot fully answer. Why are we here? What gives our days meaning? Where can we find lasting love? Life is about knowing God, and God makes himself known through Jesus Christ.
 

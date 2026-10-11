@@ -2,7 +2,7 @@
 
 Centers God’s story on Jesus rather than ourselves. It explains how Christ’s obedience and sacrifice bring God’s justice and mercy together, offering forgiveness, righteousness, and eternal life to all who trust in Him.
 
-## [Life’s Purpose: Knowing God Through Jesus Christ](life.md)
+## [Life Is All About Knowing God Through Jesus Christ](life.md)
 
 Explores knowing God through Jesus as life’s deepest purpose. It shows how Jesus reveals God’s character and how trusting Him shapes daily life through prayer, forgiveness, service, and love for others.
 
