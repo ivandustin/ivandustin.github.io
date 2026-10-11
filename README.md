@@ -30,6 +30,10 @@ Reflects on the meaning “Yahweh saves” in the names Yeshayahu and Yehoshua. 
 
 Argues that learning requires exposure to unfamiliar ideas, real experience, feedback, and the possibility of failure. Growth comes through small challenges followed by honest reflection and repeated effort.
 
+## [Practice Is How We Grow](practice.md)
+
+Explores how practice is a normal part of growth, beginning with early development and continuing throughout life. It emphasizes repeated effort, feedback, rest, and trying different approaches, reminding us that we can begin before we feel ready.
+
 ## [The Power of Words](words.md)
 
 Explores how words share knowledge, shape beliefs, and guide choices in medicine, law, and daily life. It emphasizes clear communication, checking statements against reliable evidence, and speaking with care when others’ health, freedom, or trust may depend on what we say.
