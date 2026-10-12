@@ -61,3 +61,7 @@ Explores how information can be reused without being used up, allowing one act o
 ## [Death Is Not an Escape](reso.md)
 
 Reflects on Jesus’ teaching about resurrection and judgment, emphasizing that death does not erase responsibility for our choices. It presents both a warning against evil and hope for those who suffer injustice, while calling readers to seek mercy, do what is right, and love others.
+
+## [Love Is Not a Feeling](love.md)
+
+Explores love as a choice to seek another person’s good through kindness, giving, forgiveness, and service. Drawing on Jesus’ teachings and example, it emphasizes putting care into action even when feelings change or loving others is difficult.
